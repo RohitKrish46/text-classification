@@ -1,0 +1,5 @@
+outs:
+- md5: 473b4ef8ff6dc5b4662e680e8e5a2f36
+  size: 26
+  hash: md5
+  path: .gitattributes
