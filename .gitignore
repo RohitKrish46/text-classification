@@ -194,6 +194,8 @@ cython_debug/
 .cursorindexingignore
 cred.txt
 local_s3/
-data/
-/.gitattributes
+<<<<<<< HEAD
 models/
+=======
+>>>>>>> data-ingestion
+/.gitattributes
