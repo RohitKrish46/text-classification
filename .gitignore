@@ -196,3 +196,7 @@ cred.txt
 local_s3/
 .gitattributes
 /models
+data/raw
+data/processed
+data/interim
+data/external
