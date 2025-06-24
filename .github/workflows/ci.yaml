@@ -29,6 +29,6 @@ jobs:
 
       - name: run pipeline
         env:
-          CAPSTONE_TEST: ${{ secrets.DAGS_AUTH }}
+          DAGS_AUTH: ${{ secrets.DAGS_AUTH }}
         run: |
           dvc repro
